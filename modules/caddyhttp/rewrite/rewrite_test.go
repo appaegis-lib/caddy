@@ -19,7 +19,7 @@ import (
 	"regexp"
 	"testing"
 
-	"github.com/caddyserver/caddy/v2"
+	"github.com/appaegis-lib/caddy/v2"
 )
 
 func TestRewrite(t *testing.T) {

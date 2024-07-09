@@ -14,10 +14,10 @@ import (
 
 	"github.com/caddyserver/certmagic"
 
-	"github.com/caddyserver/caddy/v2"
-	"github.com/caddyserver/caddy/v2/caddyconfig"
-	"github.com/caddyserver/caddy/v2/caddyconfig/caddyfile"
-	"github.com/caddyserver/caddy/v2/modules/caddypki"
+	"github.com/appaegis-lib/caddy/v2"
+	"github.com/appaegis-lib/caddy/v2/caddyconfig"
+	"github.com/appaegis-lib/caddy/v2/caddyconfig/caddyfile"
+	"github.com/appaegis-lib/caddy/v2/modules/caddypki"
 )
 
 func init() {

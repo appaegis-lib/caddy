@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/caddyserver/caddy/v2/caddyconfig/caddyfile"
+	"github.com/appaegis-lib/caddy/v2/caddyconfig/caddyfile"
 )
 
 func TestHTTPTransportUnmarshalCaddyFileWithCaPools(t *testing.T) {

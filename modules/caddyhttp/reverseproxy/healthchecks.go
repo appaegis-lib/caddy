@@ -28,8 +28,8 @@ import (
 
 	"go.uber.org/zap"
 
-	"github.com/caddyserver/caddy/v2"
-	"github.com/caddyserver/caddy/v2/modules/caddyhttp"
+	"github.com/appaegis-lib/caddy/v2"
+	"github.com/appaegis-lib/caddy/v2/modules/caddyhttp"
 )
 
 // HealthChecks configures active and passive health checks.

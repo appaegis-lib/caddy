@@ -35,10 +35,10 @@ import (
 	"github.com/aryann/difflib"
 	"go.uber.org/zap"
 
-	"github.com/caddyserver/caddy/v2"
-	"github.com/caddyserver/caddy/v2/caddyconfig"
-	"github.com/caddyserver/caddy/v2/caddyconfig/caddyfile"
-	"github.com/caddyserver/caddy/v2/internal"
+	"github.com/appaegis-lib/caddy/v2"
+	"github.com/appaegis-lib/caddy/v2/caddyconfig"
+	"github.com/appaegis-lib/caddy/v2/caddyconfig/caddyfile"
+	"github.com/appaegis-lib/caddy/v2/internal"
 )
 
 func cmdStart(fl Flags) (int, error) {

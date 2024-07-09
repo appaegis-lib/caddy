@@ -13,7 +13,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/caddyserver/caddy/v2/caddytest"
+	"github.com/appaegis-lib/caddy/v2/caddytest"
 	"golang.org/x/net/http2"
 	"golang.org/x/net/http2/h2c"
 )

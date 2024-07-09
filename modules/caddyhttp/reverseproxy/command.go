@@ -24,14 +24,14 @@ import (
 	"github.com/spf13/cobra"
 	"go.uber.org/zap"
 
-	caddycmd "github.com/caddyserver/caddy/v2/cmd"
+	caddycmd "github.com/appaegis-lib/caddy/v2/cmd"
 
-	"github.com/caddyserver/caddy/v2"
-	"github.com/caddyserver/caddy/v2/caddyconfig"
-	"github.com/caddyserver/caddy/v2/caddyconfig/httpcaddyfile"
-	"github.com/caddyserver/caddy/v2/modules/caddyhttp"
-	"github.com/caddyserver/caddy/v2/modules/caddyhttp/headers"
-	"github.com/caddyserver/caddy/v2/modules/caddytls"
+	"github.com/appaegis-lib/caddy/v2"
+	"github.com/appaegis-lib/caddy/v2/caddyconfig"
+	"github.com/appaegis-lib/caddy/v2/caddyconfig/httpcaddyfile"
+	"github.com/appaegis-lib/caddy/v2/modules/caddyhttp"
+	"github.com/appaegis-lib/caddy/v2/modules/caddyhttp/headers"
+	"github.com/appaegis-lib/caddy/v2/modules/caddytls"
 )
 
 func init() {
