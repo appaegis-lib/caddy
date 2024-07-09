@@ -28,9 +28,9 @@ import (
 	"golang.org/x/net/http2"
 	"golang.org/x/net/http2/h2c"
 
-	"github.com/caddyserver/caddy/v2"
-	"github.com/caddyserver/caddy/v2/modules/caddyevents"
-	"github.com/caddyserver/caddy/v2/modules/caddytls"
+	"github.com/appaegis-lib/caddy/v2"
+	"github.com/appaegis-lib/caddy/v2/modules/caddyevents"
+	"github.com/appaegis-lib/caddy/v2/modules/caddytls"
 )
 
 func init() {

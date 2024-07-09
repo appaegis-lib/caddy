@@ -34,7 +34,7 @@ import (
 	"go.uber.org/zap"
 	"golang.org/x/time/rate"
 
-	"github.com/caddyserver/caddy/v2/internal"
+	"github.com/appaegis-lib/caddy/v2/internal"
 )
 
 // NetworkAddress represents one or more network addresses.

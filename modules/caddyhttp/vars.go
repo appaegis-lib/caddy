@@ -20,8 +20,8 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/caddyserver/caddy/v2"
-	"github.com/caddyserver/caddy/v2/caddyconfig/caddyfile"
+	"github.com/appaegis-lib/caddy/v2"
+	"github.com/appaegis-lib/caddy/v2/caddyconfig/caddyfile"
 )
 
 func init() {

@@ -18,7 +18,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/caddyserver/caddy/v2/internal"
+	"github.com/appaegis-lib/caddy/v2/internal"
 )
 
 func TestSplitNetworkAddress(t *testing.T) {

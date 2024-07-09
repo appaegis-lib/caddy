@@ -29,7 +29,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/caddyserver/caddy/v2/modules/caddyhttp"
+	"github.com/appaegis-lib/caddy/v2/modules/caddyhttp"
 )
 
 type handle struct{}

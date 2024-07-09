@@ -17,7 +17,7 @@ package caddy
 import (
 	"golang.org/x/sys/windows/svc"
 
-	"github.com/caddyserver/caddy/v2/notify"
+	"github.com/appaegis-lib/caddy/v2/notify"
 )
 
 // appaegis:disable it
